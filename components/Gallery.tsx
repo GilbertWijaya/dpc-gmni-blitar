@@ -6,10 +6,10 @@ import Image from 'next/image';
 import {Container} from 'react-bootstrap';
 
 const galleryImages = [
-  'https://dpc-gmni-blitar.vercel.app/gallery/galeri1.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery/galeri2.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery/galeri3.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery/galeri4.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri1.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri2.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri3.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri4.jpg',
 ];
 
 const GallerySlider = () => {
