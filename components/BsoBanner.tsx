@@ -20,7 +20,7 @@ const BsoBanner = () => {
 
                     <Link href="/bso/pasar_rakyat" className="text-center" style={{ textDecoration: "none" }}>
                         {/* <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/pasar_rakyat.png" className="img-fluid" alt="logo_bso" width={230} height={230}/> */}
-                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/pasar_rakyat.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/pasar_rakyat.png" className="img-fluid" alt="logo_bso" width={200} height={200}/>
                         <span className="text-white text-center font-semibold">PASAR RAKYAT</span>
                     </Link>
 
