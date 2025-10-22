@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images:{
     remotePatterns:[{
       protocol: "https",
-      hostname: "dpc-gmni-blitar.vercel.app/",
+      hostname: "dpc-gmni-blitar.vercel.app",
       pathname: "/**"
     }]
   }
