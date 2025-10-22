@@ -1,0 +1,41 @@
+
+import Image from "next/image"
+
+const LogoGmni = () => {
+    return (
+        <>
+
+            <div className="banner-container d-flex flex-wrap justify-content-center align-items-center  p-4 gap-5" style={{ width: "100%", backgroundColor: "rgba(45, 45, 45, 1)" }}>
+
+                <div className="image-container d-flex flex-column justify-content-center align-items-center">
+
+                    <Image src="http://localhost:3000/logo_gmni/LOGO_GMNI.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                    {/* <span className="text-white text-center font-semibold">GALERI RAKYAT</span> */}
+
+                </div>
+                <div className="image-container d-flex flex-column justify-content-center align-items-center">
+
+                    <Image src="http://localhost:3000/logo_gmni/LOGO_BINTANG.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                    {/* <span className="text-white text-center font-semibold">GALERI RAKYAT</span> */}
+
+                </div>
+                <div className="image-container d-flex flex-column justify-content-center align-items-center">
+
+                    <Image src="http://localhost:3000/logo_gmni/LOGO_KEPENGURUSAN.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                    {/* <span className="text-white text-center font-semibold">GALERI RAKYAT</span> */}
+
+                </div>
+                <div className="image-container d-flex flex-column justify-content-center align-items-center">
+
+                    <Image src="http://localhost:3000/logo_gmni/LOGO_KOMUNIKASI.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                    {/* <span className="text-white text-center font-semibold">GALERI RAKYAT</span> */}
+
+                </div>
+                
+            </div>
+        
+        </>
+    )
+}
+
+export default LogoGmni

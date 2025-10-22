@@ -1,0 +1,52 @@
+
+import { Container } from "react-bootstrap"
+import Image from "next/image"
+
+const page = () => {
+    return (
+        <>
+
+            <Container
+                fluid="md"
+                className="mt-5 mb-5 d-flex flex-column justify-content-center align-items-center text-center px-3"
+                style={{ width: "100%", height: "auto" }}
+                >
+                {/* Gambar responsif */}
+                <Image
+                    src="http://localhost:3000/thumbnail/banner_thumbnail.png"
+                    alt="thumbnail"
+                    width={700}
+                    height={650}
+                    className="img-fluid"
+                    style={{ maxWidth: "100%", height: "auto" }}
+                />
+
+                {/* Judul */}
+                <h3 className="mt-4" style={{ color: "rgba(0, 0, 0, 1)" }}>
+                    BADAN SEMI OTONOM
+                </h3>
+
+                {/* Garis Merah */}
+                <hr
+                    className="mx-auto my-3"
+                    style={{
+                    width: "100%",
+                    maxWidth: "57rem",
+                    height: "4px",
+                    backgroundColor: "rgba(255, 0, 15, 1)",
+                    border: "none"
+                    }}
+                />
+
+                {/* Paragraf responsif */}
+                <p className="mt-2" style={{ maxWidth: "900px", width: "100%" }}>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem adipisci accusamus alias placeat illum enim natus, cupiditate deserunt ullam unde. Accusamus corporis voluptas eius! Placeat molestias culpa doloremque perspiciatis modi?
+                </p>
+            </Container>
+
+
+        </>
+    )
+}
+
+export default page
