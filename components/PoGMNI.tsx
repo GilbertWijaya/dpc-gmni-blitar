@@ -26,7 +26,7 @@ const PoGMNI = () => {
                     <Col md={5} className="d-flex align-items-stretch">
                         <div className="w-100 h-100">
                         <img
-                            src="http://localhost:3000/thumbnail/po-gmni.jpg"
+                            src="https://dpc-gmni-blitar.vercel.app/thumbnail/po-gmni.jpg"
                             alt="Buku Pedoman Organisasi"
                             className="img-fluid rounded shadow h-100 w-100 object-fit-cover"
                             style={{ objectFit: 'cover' }}

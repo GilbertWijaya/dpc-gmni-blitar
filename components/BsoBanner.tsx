@@ -11,7 +11,7 @@ const BsoBanner = () => {
                 <div className="image-container d-flex flex-column justify-content-center align-items-center">
 
                     <Link href="/bso/galeri_rakyat" className="text-center" style={{ textDecoration: "none" }}>
-                        <Image src="http://localhost:3000/logo_bso/galeri_rakyat_fix.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/galeri_rakyat_fix.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
                         <span className="text-white text-center font-semibold">GALERI RAKYAT</span>
                     </Link>
 
@@ -19,7 +19,7 @@ const BsoBanner = () => {
                 <div className="image-container d-flex flex-column justify-content-center align-items-center">
 
                     <Link href="/bso/pasar_rakyat" className="text-center" style={{ textDecoration: "none" }}>
-                        <Image src="http://localhost:3000/logo_bso/pasar_rakyat.png" className="img-fluid" alt="logo_bso" width={230} height={230}/>
+                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/pasar_rakyat.png" className="img-fluid" alt="logo_bso" width={230} height={230}/>
                         <span className="text-white text-center font-semibold">PASAR RAKYAT</span>
                     </Link>
 
@@ -27,7 +27,7 @@ const BsoBanner = () => {
                 <div className="image-container d-flex flex-column justify-content-center align-items-center">
 
                     <Link href="/bso/mega_dinandra" className="text-center" style={{ textDecoration: "none" }}>
-                        <Image src="http://localhost:3000/logo_bso/mega_dinandra.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/mega_dinandra.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
                         <span className="text-white text-center font-semibold">MEGA DINANDRA</span>
                     </Link>
 
@@ -35,7 +35,7 @@ const BsoBanner = () => {
                 <div className="image-container d-flex flex-column justify-content-center align-items-center">
 
                     <Link href="/bso/bulls_gaming" className="text-center" style={{ textDecoration: "none" }}>
-                        <Image src="http://localhost:3000/logo_bso/bulls_gaming.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
+                        <Image src="https://dpc-gmni-blitar.vercel.app/logo_bso/bulls_gaming.png" className="img-fluid" alt="logo_bso" width={150} height={150}/>
                         <span className="text-white text-center font-semibold">BULLS GAMING</span>
                     </Link>
 
