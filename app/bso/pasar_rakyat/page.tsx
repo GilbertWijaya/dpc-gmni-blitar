@@ -14,7 +14,7 @@ const page = () => {
                 >
                 {/* Gambar responsif */}
                 <Image
-                    src="http://localhost:3000/thumbnail/banner_thumbnail.png"
+                    src="https://dpc-gmni-blitar.vercel.app/thumbnail/banner_thumbnail.png"
                     alt="thumbnail"
                     width={700}
                     height={650}

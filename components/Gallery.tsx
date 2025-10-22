@@ -6,10 +6,10 @@ import Image from 'next/image';
 import {Container} from 'react-bootstrap';
 
 const galleryImages = [
-  'http://localhost:3000/gallery/GALERI1.jpg',
-  'http://localhost:3000/gallery/GALERI2.jpg',
-  'http://localhost:3000/gallery/GALERI3.jpg',
-  'http://localhost:3000/gallery/GALERI4.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery/GALERI1.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery/GALERI2.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery/GALERI3.jpg',
+  'https://dpc-gmni-blitar.vercel.app/gallery/GALERI4.jpg',
 ];
 
 const GallerySlider = () => {
