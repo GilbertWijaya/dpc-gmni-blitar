@@ -10,7 +10,7 @@ function Topbar() {
     <Navbar expand="lg" className="bg-body-danger" sticky='top' style={{ backgroundColor: "rgb(153,0,15)" }} variant='dark'>
       <Container fluid="md">
         <NavbarBrand href='#' className='fw-bold d-flex align-items-center'>
-            <Image src="https://dpc-gmni-blitar.vercel.app/logo_gmni/LOGO_GMNI.png" alt='logo_gmni' width={60} height={50}/>
+            <Image src="https://dpc-gmni-blitar.vercel.app/logo_gmni/logo_gmni.png" alt='logo_gmni' width={60} height={50}/>
             <span style={{ marginLeft: '10px', color: 'white', fontSize: '1.25rem' }}>
                 GMNI
             </span>
