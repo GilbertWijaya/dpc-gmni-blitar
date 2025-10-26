@@ -15,6 +15,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "DPC GMNI Blitar",
   description: "GMNI Blitar",
+  icons:{
+    icon: "/icon.png",
+  }
 };
 
 export default function RootLayout({

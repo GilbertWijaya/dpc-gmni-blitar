@@ -30,7 +30,7 @@ const ArtikelBeranda = () => {
 
                         <Link href="/daftar_atikel/biografi_bung_karno" style={{ textDecoration: "none" }}>
                             <Card style={{ width: '18rem' }} className="rounded-top-4">
-                            <CardImg className="rounded-top-4" variant="top" src="http://localhost:3000/thumbnail/artikel_thumbnail.jpg" />
+                            <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.jpg" />
                             <CardBody className="text-center text-dark rounded-bottom-3" style={{ backgroundColor: "rgba(217, 217, 217, 1)" }}>
                                 <CardTitle>BIOGRAFI BUNG KARNO</CardTitle>
                                 <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
@@ -39,7 +39,7 @@ const ArtikelBeranda = () => {
                         </Link>
                         <Link href="/daftar_atikel/Indonesia_menggugat" style={{ textDecoration: "none" }}>
                             <Card style={{ width: '18rem' }} className="rounded-top-4">
-                            <CardImg className="rounded-top-4" variant="top" src="http://localhost:3000/thumbnail/artikel_thumbnail.jpg" />
+                            <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.jpg" />
                             <CardBody className="text-center text-dark rounded-bottom-3" style={{ backgroundColor: "rgba(217, 217, 217, 1)" }}>
                                 <CardTitle>INDONESIA MENGGUGAT</CardTitle>
                                 <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>

@@ -5,10 +5,10 @@ import Image from 'next/image';
 
 // Dummy logo list
 const runningMarqueeLogos = [
-  { src: 'http://localhost:3000/berjalan-aset/berjalan11.png', alt: 'Logo 1' },
-  { src: 'http://localhost:3000/berjalan-aset/berjalan21.png', alt: 'Logo 2' },
-  { src: 'http://localhost:3000/berjalan-aset/berjalan31.png', alt: 'Logo 3' },
-  { src: 'http://localhost:3000/berjalan-aset/berjalan41.png', alt: 'Logo 4' },
+  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan11.png', alt: 'Logo 1' },
+  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan21.png', alt: 'Logo 2' },
+  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan31.png', alt: 'Logo 3' },
+  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan41.png', alt: 'Logo 4' },
 ];
 
 const MarqueeComp = () => {
