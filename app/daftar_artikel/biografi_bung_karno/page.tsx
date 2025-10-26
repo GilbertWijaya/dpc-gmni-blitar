@@ -48,25 +48,33 @@ const page = () => {
                 ></div>
 
                 {/* Paragraf responsif */}
-                <p className="mt-2" style={{ maxWidth: "900px", width: "100%" }}>
-                    **Biografi Bung Karno: Bapak Proklamator dan Presiden Pertama Indonesia**
+                <div className="mt-2 text-start" style={{ maxWidth: "900px", width: "100%" }}>
+                    <h3>Biografi Bung Karno: Bapak Proklamator dan Presiden Pertama Indonesia</h3>
 
-                    **Pendahuluan**
+                    <br />
+
+                    <h4>Pendahuluan</h4>
 
                     Soekarno, atau yang lebih dikenal dengan sebutan Bung Karno, adalah salah satu tokoh paling berpengaruh dalam sejarah Indonesia. Sebagai Bapak Proklamator dan Presiden pertama Indonesia, ia memainkan peran kunci dalam perjuangan kemerdekaan bangsa dari penjajahan. Kehidupannya penuh dengan dinamika politik, perjuangan ideologis, dan upaya tiada henti untuk memajukan bangsa.
 
-                    **Kehidupan Awal**
+                    <br />
+                    <br />
+
+                    <h4>Kehidupan Awal</h4>
 
                     Soekarno lahir dengan nama asli Koesno Sosrodihardjo pada 6 Juni 1901 di Surabaya, Jawa Timur. Ayahnya, Raden Soekemi Sosrodihardjo, adalah seorang guru sekolah dasar, sementara ibunya, Ida Ayu Nyoman Rai, berasal dari keluarga bangsawan Bali. Koesno muda kemudian berganti nama menjadi Soekarno setelah sering jatuh sakit, sesuai tradisi Jawa yang mempercayai pergantian nama dapat membawa keberuntungan.
 
                     Sejak kecil, Soekarno menunjukkan kecerdasan dan minat yang besar terhadap politik dan budaya. Setelah menyelesaikan pendidikan dasarnya, ia melanjutkan studi ke Sekolah Teknik (Technische Hoogeschool) di Bandung, yang kini dikenal sebagai Institut Teknologi Bandung (ITB), dan meraih gelar insinyur pada tahun 1926.
+                    
+                    <br />
+                    <br />
 
-                    **Perjuangan Kemerdekaan**
+                    <h4>Perjuangan Kemerdekaan</h4>
 
                     Pada tahun 1927, Soekarno bersama beberapa rekannya mendirikan Partai Nasional Indonesia (PNI). Partai ini memiliki tujuan untuk mencapai kemerdekaan Indonesia melalui cara non-kooperatif dengan pemerintah kolonial Belanda. Akibat kegiatan politiknya yang semakin berpengaruh, Soekarno ditangkap dan dipenjara oleh pemerintah kolonial pada tahun 1929. Namun, setelah dibebaskan pada tahun 1931, ia terus melanjutkan perjuangan untuk kemerdekaan.
 
                     Selama masa pendudukan Jepang, Soekarno bekerjasama dengan pemerintah pendudukan Jepang, dengan harapan bahwa Jepang akan membantu Indonesia meraih kemerdekaan. Pada tanggal 17 Agustus 1945, Soekarno bersama Mohammad Hatta memproklamasikan kemerdekaan Indonesia, menjadikan Indonesia sebagai negara yang berdaulat.    
-                </p>
+                </div>
             </Container>
 
 

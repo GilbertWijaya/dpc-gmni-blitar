@@ -48,20 +48,28 @@ const page = () => {
                 ></div>
 
                 {/* Paragraf responsif */}
-                <p className="mt-2" style={{ maxWidth: "900px", width: "100%" }}>
-                    **Indonesia Menggugat: Manifesto Perlawanan Soekarno terhadap Kolonialisme**
+                <p className="mt-2 text-start" style={{ maxWidth: "900px", width: "100%" }}>
+                    <h3>Indonesia Menggugat: Manifesto Perlawanan Soekarno terhadap Kolonialisme</h3>
 
-                    **Pendahuluan**
+                    <br />
+
+                    <h3>Pendahuluan</h3>
 
                     "Indonesia Menggugat" adalah sebuah pidato legendaris yang disampaikan oleh Soekarno di hadapan Pengadilan Kolonial Belanda pada tahun 1930. Pidato ini tidak hanya menggambarkan keteguhan hati Soekarno sebagai pemimpin pergerakan kemerdekaan, tetapi juga menjadi manifesto yang menginspirasi perjuangan melawan penjajahan di Indonesia. Dalam pidatonya, Soekarno secara terbuka menantang kekuasaan kolonial Belanda dan mengecam ketidakadilan serta penindasan yang dilakukan terhadap rakyat Indonesia.
 
-                    **Latar Belakang**
+                    <br />
+                    <br />
+
+                    <h3>Latar Belakang</h3>
 
                     Pada tahun 1927, Soekarno bersama para pemuda nasionalis lainnya mendirikan Partai Nasional Indonesia (PNI), sebuah organisasi yang bertujuan untuk memperjuangkan kemerdekaan Indonesia dari penjajahan Belanda. PNI berkembang pesat dan dengan cepat menjadi ancaman bagi pemerintah kolonial. Melihat pengaruh Soekarno dan PNI yang semakin kuat, pemerintah Belanda mulai mengambil tindakan represif.
 
                     Pada 29 Desember 1929, Soekarno ditangkap oleh pemerintah kolonial Belanda bersama beberapa pemimpin PNI lainnya dengan tuduhan menghasut dan merencanakan pemberontakan. Mereka dibawa ke penjara Banceuy di Bandung, dan kasusnya disidangkan pada tahun 1930 di Pengadilan Landraad, Bandung.
 
-                    **Isi Pidato Indonesia Menggugat**
+                    <br />
+                    <br />
+
+                    <h3>Isi Pidato Indonesia Menggugat</h3>
 
                     Pidato "Indonesia Menggugat" disampaikan Soekarno pada tanggal 18 Agustus 1930 di hadapan Pengadilan Landraad sebagai pembelaan atas tuduhan yang diarahkan kepadanya. Namun, pidato ini bukan hanya sekadar pembelaan hukum, melainkan juga menjadi deklarasi politik yang menentang keberadaan kolonialisme di Indonesia.
 

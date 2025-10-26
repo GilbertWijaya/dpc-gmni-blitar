@@ -19,7 +19,7 @@ const BlackBottom = () => {
                         <div className="keterangan d-flex flex-column flex-sm-row align-items-center gap-3">
                             <div className="logo">
                                 <Image
-                                    src="https://dpc-gmni-blitar.vercel.app/logo_gmni-aset/logo_gmni.png"
+                                    src="http://localhost:3000/logo_gmni-aset/logo_gmni.png"
                                     alt="logo_gmni"
                                     width={150}
                                     height={150}
@@ -27,21 +27,21 @@ const BlackBottom = () => {
                                 />
                             </div>
 
-                            <div className="penjelasan text-white text-start mx-auto" style={{ maxWidth: "700px", width: "100%" }}>
-                                <span>
+                            <div className="penjelasan text-center text-white mx-auto" style={{ maxWidth: "700px", width: "100%" }}>
+                                <span className="">
                                     GMNI adalah singkatan dari Gerakan Mahasiswa Nasional Indonesia, sebuah organisasi mahasiswa ekstrakampus yang didirikan pada 23 Maret 1954 di Surabaya. Organisasi ini merupakan hasil peleburan dari tiga gerakan mahasiswa sebelumnya dan memiliki tujuan untuk mendidik kader bangsa dalam mewujudkan Sosialisme Indonesia berdasarkan Pancasila. GMNI aktif di hampir seluruh Indonesia dan sering melakukan kegiatan kaderisasi, advokasi, literasi, serta demonstrasi.
                                 </span>
                             </div>
                         </div>
 
                         {/* Section Kontak */}
-                        <div className="kontak d-flex flex-column flex-sm-row align-items-center gap-3">
-                            <div className="text-white">
-                                <ol className="mb-0">
-                                    <li>Lorem Ipsum</li>
-                                    <li>08xxxxxx</li>
-                                    <li>di blitar</li>
-                                </ol>
+                        <div className="kontak d-flex text-center flex-column flex-sm-row align-items-center gap-3">
+                            <div className="kontak text-white">
+                                <div className="d-flex flex-column gap-2">
+                                    <div><strong>Contact Person:</strong> 0812-3456-7890</div>
+                                    <div><strong>Email:</strong> info@gmni-blitar.org</div>
+                                    <div><strong>Alamat:</strong> Jl. Pahlawan No. 123, Blitar</div>
+                                </div>
                             </div>
 
                             <div className="penjelasan text-white text-start w-100">

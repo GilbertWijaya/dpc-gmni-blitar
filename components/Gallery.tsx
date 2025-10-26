@@ -5,11 +5,17 @@ import { useState } from 'react';
 import Image from 'next/image';
 import {Container} from 'react-bootstrap';
 
+// const galleryImages = [
+//   'http://localhost:3000/gallery-aset/galeri1.jpg',
+//   'http://localhost:3000/gallery-aset/galeri2.jpg',
+//   'http://localhost:3000/gallery-aset/galeri3.jpg',
+//   'http://localhost:3000/gallery-aset/galeri4.jpg',
+// ];
 const galleryImages = [
-  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri1.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri2.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri3.jpg',
-  'https://dpc-gmni-blitar.vercel.app/gallery-aset/galeri4.jpg',
+  '/gallery-aset/galeri1.jpg',
+  '/gallery-aset/galeri2.jpg',
+  '/gallery-aset/galeri3.jpg',
+  '/gallery-aset/galeri4.jpg',
 ];
 
 const GallerySlider = () => {

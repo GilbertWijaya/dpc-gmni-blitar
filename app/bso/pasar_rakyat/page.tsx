@@ -1,4 +1,7 @@
 
+"use client";
+
+
 import { Container } from "react-bootstrap"
 import Image from "next/image"
 import BsoBanner from "@/components/BsoBanner"

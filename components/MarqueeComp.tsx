@@ -5,15 +5,15 @@ import Image from 'next/image';
 
 // Dummy logo list
 const runningMarqueeLogos = [
-  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan1.jpg', alt: 'Logo 1' },
-  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan2.jpg', alt: 'Logo 2' },
-  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan3.jpg', alt: 'Logo 3' },
-  { src: 'https://dpc-gmni-blitar.vercel.app/berjalan-aset/berjalan4.jpg', alt: 'Logo 4' },
+  { src: 'http://localhost:3000/berjalan-aset/berjalan11.png', alt: 'Logo 1' },
+  { src: 'http://localhost:3000/berjalan-aset/berjalan21.png', alt: 'Logo 2' },
+  { src: 'http://localhost:3000/berjalan-aset/berjalan31.png', alt: 'Logo 3' },
+  { src: 'http://localhost:3000/berjalan-aset/berjalan41.png', alt: 'Logo 4' },
 ];
 
 const MarqueeComp = () => {
   // Duplikasi list agar looping tidak ada jeda
-  const logos = [...runningMarqueeLogos, ...runningMarqueeLogos];
+  const logos = [...runningMarqueeLogos, ...runningMarqueeLogos,...runningMarqueeLogos];
 
   return (
     <section className="py-5 bg-light">
