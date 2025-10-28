@@ -12,10 +12,10 @@ import {Container} from 'react-bootstrap';
 //   'http://localhost:3000/gallery-aset/galeri4.jpg',
 // ];
 const galleryImages = [
-  '/gallery-aset/galeri1.jpg',
-  '/gallery-aset/galeri2.jpg',
-  '/gallery-aset/galeri3.jpg',
-  '/gallery-aset/galeri4.jpg',
+  '/gallery-aset/galeri1.webp',
+  '/gallery-aset/galeri2.webp',
+  '/gallery-aset/galeri3.webp',
+  '/gallery-aset/galeri4.webp',
 ];
 
 const GallerySlider = () => {

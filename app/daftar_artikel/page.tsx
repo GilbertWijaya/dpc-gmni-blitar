@@ -32,7 +32,7 @@ const page = () => {
 
                     <Link href="/daftar_artikel/biografi_bung_karno" style={{ textDecoration: "none" }}>
                         <Card style={{ width: '18rem' }} className="rounded-top-4">
-                        <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.jpg" />
+                        <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.webp" />
                         <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                             <CardTitle>Biografi Bung Karno</CardTitle>
                             <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
@@ -41,7 +41,7 @@ const page = () => {
                     </Link>
                     <Link href="/daftar_artikel/Indonesia_menggugat" style={{ textDecoration: "none" }}>
                         <Card style={{ width: '18rem' }} className="rounded-top-4">
-                        <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.jpg" />
+                        <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.webp" />
                         <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                             <CardTitle>Indonesia Menggugat</CardTitle>
                             <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>

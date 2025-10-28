@@ -7,12 +7,12 @@ import Image from "next/image";
 // --- DATA DUMMY ---
 const bannerData = [
   {
-    image: 'https://dpc-gmni-blitar.vercel.app/thumbnail/banner_thumbnail.png',
+    image: 'https://dpc-gmni-blitar.vercel.app/thumbnail/banner_thumbnail.webp',
     title: 'Visi',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, asperiores dolore provident recusandae iusto corporis dolor cupiditate debitis harum aliquid, assumenda alias itaque esse ab deleniti? Voluptate reiciendis nobis nihil.',
   },
   {
-    image: 'https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.jpg',
+    image: 'https://dpc-gmni-blitar.vercel.app/thumbnail/artikel_thumbnail.webp',
     title: 'Misi',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, asperiores dolore provident recusandae iusto corporis dolor cupiditate debitis harum aliquid, assumenda alias itaque esse ab deleniti? Voluptate reiciendis nobis nihil.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, asperiores dolore provident recusandae iusto corporis dolor cupiditate debitis harum aliquid, assumenda alias itaque esse ab deleniti? Voluptate reiciendis nobis nihil.',
   },

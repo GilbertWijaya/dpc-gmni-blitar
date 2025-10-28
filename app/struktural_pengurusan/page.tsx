@@ -32,77 +32,77 @@ const page = () => {
                 <div className="d-flex flex-wrap justify-content-center gap-4">
 
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/vita.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/vita.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>SARINAH VITA</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/bagus.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/bagus.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG BAGUS</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/iko.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/iko.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG RIKO</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/rahadian.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/rahadian.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG RAHADIAN</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/puan.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/puan.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>SARINAH PUAN</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/anggie.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/anggie.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>SARINAH ANGGIE</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/arif.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/arif.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG ARIF</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/ziya.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/ziya.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>SARINAH ZIYA</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/afifah.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/afifah.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>SARINAH AFIFAH</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/ulin.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/ulin.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG ULIN</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>
                     </CardBody>
                     </Card>
                     <Card style={{ width: '18rem' }} className="rounded-top-4">
-                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/rijal.jpg" />
+                    <CardImg className="rounded-top-4" variant="top" src="https://dpc-gmni-blitar.vercel.app/struktural/hal_2/rijal.webp" />
                     <CardBody className="text-center text-white rounded-bottom-3" style={{ backgroundColor: "rgba(163, 0, 16, 1)" }}>
                         <CardTitle>BUNG RIJAL</CardTitle>
                         <CardText>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</CardText>

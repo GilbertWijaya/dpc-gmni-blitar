@@ -19,7 +19,7 @@ const BlackBottom = () => {
                         <div className="keterangan d-flex flex-column flex-sm-row align-items-center gap-3">
                             <div className="logo">
                                 <Image
-                                    src="https://dpc-gmni-blitar.vercel.app/logo_gmni-aset/logo_gmni.png"
+                                    src="https://dpc-gmni-blitar.vercel.app/logo_gmni-aset/logo_gmni.webp"
                                     alt="logo_gmni"
                                     width={150}
                                     height={150}
