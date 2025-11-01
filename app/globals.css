@@ -7,3 +7,49 @@
 .custom-navdropdown-title {
   color: #fff;
 }
+
+/* === RESPONSIVE MOBILE NAVBAR STYLE === */
+@media (max-width: 991px) {
+  .custom-navbar .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(153, 0, 15);
+    padding-top: 80px;
+    z-index: 9999;
+    overflow-y: auto;
+    transition: all 0.3s ease-in-out;
+  }
+
+  /* Logo & tombol tetap di atas */
+  .custom-navbar .navbar-brand,
+  .custom-navbar .navbar-toggler {
+    position: relative;
+    z-index: 10000;
+  }
+
+  /* Estetika form search di mobile */
+  .custom-navbar .navbar-collapse form {
+    width: 90%;
+    max-width: 300px; /* biar nggak terlalu lebar */
+    margin: 20px auto; /* center di layar */
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-navbar .navbar-collapse form input {
+    width: 75%;
+    border-radius: 8px 0 0 8px;
+    font-size: 0.95rem;
+  }
+
+  .custom-navbar .navbar-collapse form button {
+    width: 25%;
+    border-radius: 0 8px 8px 0;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+}
+
